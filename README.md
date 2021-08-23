@@ -70,8 +70,9 @@ li a:hover {
 
 
 </style>
-  <title>Sara Blalock Ng</title>
+
 </head>
+  <title>Sara Blalock Ng</title>
 <nav>
   <ul>
     <li><a class="active" href="REAMDE.md">Home</a></li>
