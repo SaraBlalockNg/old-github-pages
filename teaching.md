@@ -1,7 +1,7 @@
 
 **LING 4/550 Students**: Click [here]("teaching/vtl/index.html") for the Vocal Tract Measurement lab.
 
-**LING 269 Students:**:  Click [here]("teaching/stroop.html")> for access to the Taboo Stroop test.
+**LING 269 Students:**:  Click [here]("teaching/stroop.html") for access to the Taboo Stroop test.
 
 <!--Teaching is my first love, and I came to linguistics through the English as a Second Language (ESL) Teaching program at the University of Utah.-->I find real passion in teaching, and am working to improve my teaching and mentoring abilities while in graduate school.  I actually discovered the field of linguistics while completing the English as a Second Language Teaching program at the University of Utah.  As an undergraduate, I was a student teacher of Intermediate ESL and Content ESL Math and Science at Cottonwood High School in Salt Lake City, Utah.  I also was a teaching instructor for language and assimilation tutors at Catholic Community Services.
 
