@@ -30,7 +30,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   </ul>
 </nav>
 
-```markdown
 Thank you for looking me up!   My departmental web page can be found [here]("https://linguistics.washington.edu/people/sara-ng). To access data related to recent projects, please refer to my Github page [here]("https://github.com/SaraBlalockNg").
 
 # About me
@@ -44,4 +43,4 @@ My CV can be found [here]("docs/ng_CV.pdf").
 My resume can be found [here]("docs/ng_resume.pdf").
 
 Contact:  sbng (at) uw.edu
-```
+
