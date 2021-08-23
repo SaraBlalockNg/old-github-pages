@@ -1,13 +1,4 @@
 theme: jekyll-theme-cayman
 title: Sara Ng
 author: Sara Ng
-
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-  
-avatar: "/imgs/avatar.png"
-round-avatar: true
+subtitle:  University of Washington
