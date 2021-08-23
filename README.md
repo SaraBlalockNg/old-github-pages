@@ -21,7 +21,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SaraBlalockNg/sarablalockng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 ### Support or Contact
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.-->
-<title>Sara Blalock Ng</title>
 <nav>
   <ul>
     <li><a class="active" href="REAMDE.md">Home</a></li>
@@ -30,6 +29,15 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
     <li><a href="potpourri.md">Potpourri</a></li>
   </ul>
 </nav>
+
+docs_list_title: ACME Documentation
+docs:
+
+- title: Introduction
+  url: introduction.html
+
+- title: Configuration
+  url: configuration.html
 
 Thank you for looking me up!   My departmental web page can be found [here]("https://linguistics.washington.edu/people/sara-ng). To access data related to recent projects, please refer to my Github page [here]("https://github.com/SaraBlalockNg").
 
